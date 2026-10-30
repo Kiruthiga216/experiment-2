@@ -466,15 +466,16 @@ footer h3 {
 
 ## OUTPUT
 
-![alt text](Screenshot 2026-10-30 160052.png)
+![alt text](image1.png)
 
-![alt text](Screenshot 2026-10-30 160102.png)
+![alt text](image2.png)
 
-![alt text](Screenshot 2026-10-30 160110.png)
+![alt text](image3.png)
 
-![alt text](Screenshot 2026-10-30 160117.png)
+![alt text](image4.png)
 
-![alt text](Screenshot 2026-10-30 160124.png)
+![alt text](image5.png)
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
